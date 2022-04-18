@@ -1,6 +1,13 @@
-# PathFinder
-Visual representation of shortest path finding algorithms.
+# Pathfinder
+## A Path Finding Visualizer.
+This python based algorithm visualizer of two prominent algorithms i.e., Djikstra's and A*. Here, you can :
+1. Set Start and End Points.
+2. Set barriers.
+3. Undo the selected Start, End and Barrier points.
 
+## Requirements
+* Python
+* Pygame
 
 
 
